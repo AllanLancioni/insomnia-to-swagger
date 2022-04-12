@@ -1,6 +1,6 @@
 {
   "name": "insomnia-to-swagger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple script that converts Insomnia exported JSON to Swagger format, util to create simple docs",
   "bin": "./bin.js",
   "repository": {
