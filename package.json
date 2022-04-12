@@ -1,0 +1,22 @@
+{
+  "name": "insomnia-to-swagger",
+  "version": "1.0.0",
+  "description": "A simple script that converts Insomnia exported JSON to Swagger format, util to create simple docs",
+  "bin": "./bin.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllanLancioni/insomnia-to-swagger.git"
+  },
+  "keywords": [
+    "insomnia",
+    "postman",
+    "swagger",
+    "docs"
+  ],
+  "author": "Allan Lancioni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllanLancioni/insomnia-to-swagger/issues"
+  },
+  "homepage": "https://github.com/AllanLancioni/insomnia-to-swagger#readme"
+}
